@@ -1,4 +1,4 @@
-##Привет, я Наталья!
+## Привет, я Наталья!
 **Студийный фотограф**
 Занимаюсь фото и видео съемкой 2 года.
 
@@ -8,4 +8,4 @@
 У меня 100+ удачных продаваемых фото
 https://disk.yandex.ru/i/2Z327wGb3XmmVw
 Мой слоган: 
->Ordinary things in the right perspective!
+> Ordinary things in the right perspective!
